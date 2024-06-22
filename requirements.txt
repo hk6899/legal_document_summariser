@@ -1,0 +1,11 @@
+beautifulsoup4
+fastapi
+lxml
+numpy==1.26.4
+pandas
+rouge-score
+sentencepiece
+transformers[torch]
+transformers==4.41.2
+uvicorn
+
